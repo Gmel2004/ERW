@@ -1,0 +1,83 @@
+<mxfile host="Electron" modified="2023-08-15T14:24:01.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="PBdMtEGRkrK4-hPJL7H0" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="dGvyzhL9OUju9ra0SZj8">
+    <mxGraphModel dx="608" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.25" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AH3Tq4JJ9qvDrtp3A7sQ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAzoAAAInCAYAAABQjixFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAuuSURBVHhe7dcxEQAgEMCwB/+egQEVvWSphq7zDAAAQMj+BQAAyDA6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADkGB0AACDH6AAAADlGBwAAyDE6AABAjtEBAAByjA4AAJBjdAAAgByjAwAA5BgdAAAgx+gAAAA5RgcAAMgxOgAAQI7RAQAAcowOAACQY3QAAIAcowMAAOQYHQAAIMfoAAAAOUYHAADIMToAAECO0QEAAHKMDgAAkGN0AACAHKMDAADEzFxF6whKMhLHuQAAAABJRU5ErkJggg==;" parent="1" vertex="1">
+          <mxGeometry x="2.62" y="11" width="404.76" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="142" as="targetPoint" />
+            <mxPoint x="290" y="142" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-1" value="Организовать семейный приём пищи" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="121" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DayCXsestyjLEN_QBjy-2" target="6DayCXsestyjLEN_QBjy-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="121" />
+              <mxPoint x="140" y="121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-2" value="Деньги" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="61" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DayCXsestyjLEN_QBjy-3" target="6DayCXsestyjLEN_QBjy-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-3" value="Внешние&lt;br&gt;факторы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="51" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.941;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6DayCXsestyjLEN_QBjy-5" target="6DayCXsestyjLEN_QBjy-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-5" value="Предпочтения&lt;br&gt;семьи" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="51" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-6" value="Голодная семья" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="111" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-7" value="Продукты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="141" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.478;exitY=0.038;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="6DayCXsestyjLEN_QBjy-1" edge="1" source="6DayCXsestyjLEN_QBjy-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="211" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-8" value="Столовые и кухонные приборы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-9" value="Сытая семья" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="111" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-10" value="Отходы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="151" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="173.8" as="targetPoint" />
+            <mxPoint x="290" y="173.8" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="141" as="targetPoint" />
+            <mxPoint x="10" y="141" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DayCXsestyjLEN_QBjy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="172" as="targetPoint" />
+            <mxPoint x="10" y="172" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
